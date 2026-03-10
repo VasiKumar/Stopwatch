@@ -5,6 +5,14 @@ body{
   background-color: hsl(0, 0%, 95%);
 }
 
+.head {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 300%;
+  color: chocolate;
+  
+}
 
 .stopwatch{
   display:flex;
